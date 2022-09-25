@@ -1,0 +1,11 @@
+{
+  "name": "uni_proj3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:liuliyang1/xiaochengxu.git",
+  "author": "liuliyang <1690557749@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@escook/request-miniprogram": "^0.2.1"
+  }
+}
